@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Current Projects
+<b>Current Projects</b>
 
 Research</br>
 Writing</br>
