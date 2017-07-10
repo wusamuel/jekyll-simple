@@ -6,7 +6,7 @@ permalink: /about/
 
 #Current Projects
 
-Research 
+Research</br>
 Writing
 Music
 Media
