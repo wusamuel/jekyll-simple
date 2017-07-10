@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-#Current Projects
+Current Projects
 
 Research</br>
-Writing
-Music
-Media
-Competitions
-Conferences
-Misc. 
+Writing</br>
+Music</br>
+Media</br>
+Competitions</br>
+Conferences</br>
+Misc.</br>
  
