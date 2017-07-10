@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: Notes from Sam
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -23,7 +23,6 @@ kramdown:
   input: GFM
 
 # Third-party services
-# just leave someone empty to disable it
 # google_analytics: 
 disqus_shortname:
 
